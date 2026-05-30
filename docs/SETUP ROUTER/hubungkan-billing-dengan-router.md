@@ -1,5 +1,5 @@
 ---
-title: Hubungkan Billing Dengan Router
+title: Billing Connect Mikrotik
 deprecated: false
 hidden: false
 icon: fad fa-router
