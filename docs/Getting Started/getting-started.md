@@ -1,6 +1,7 @@
 ---
 title: Welcome to Docs Billing Manager
 hidden: false
+icon: fad fa-house-chimney
 ---
 <Callout icon="📘" theme="info">
   **Template:**  Delete this callout and edit this page with your content and links.
