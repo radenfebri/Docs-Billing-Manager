@@ -1,5 +1,5 @@
 ---
-title: Billing Connect Mikrotik
+title: Setup Mikrotik
 deprecated: false
 hidden: false
 icon: fad fa-router
