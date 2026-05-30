@@ -2,6 +2,7 @@
 title: Hubungkan Billing Dengan Router
 deprecated: false
 hidden: false
+icon: fad fa-router
 metadata:
   robots: index
 ---
