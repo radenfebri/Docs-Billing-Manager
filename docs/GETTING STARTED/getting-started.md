@@ -7,6 +7,9 @@ next:
     - slug: hubungkan-billing-dengan-router
       title: Setup Mikrotik
       type: basic
+    - slug: spesifikasi-persyaratan-jaringan
+      title: Spesifikasi & Persyaratan
+      type: basic
 ---
 Selamat datang di Billing Manager, solusi All-in-One yang dirancang khusus untuk mempermudah operasional bisnis RT/RW Net dan Internet Service Provider (ISP). Sistem ini diciptakan untuk mengotomatisasi pekerjaan rutin Anda, mulai dari manajemen jaringan hingga penagihan, sehingga Anda bisa fokus pada pengembangan bisnis. Dengan Billing Manager, Anda tidak perlu lagi melakukan pencatatan manual atau mengecek router satu per satu. Semuanya dikendalikan dari satu pintu.
 
