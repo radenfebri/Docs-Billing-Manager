@@ -42,11 +42,4 @@ Langkah-langkah Login:
 <Image src="https://files.readme.io/8d3a5723a3a8cfaad4d196a239129c8adccc6765dec587a72461d3fa7ebc949a-image.png" framed={true} />
 
 
-**Mengatasi Lupa Password**: Jika Anda atau staf Anda lupa kata sandi, tidak perlu panik. Anda bisa meresetnya secara mandiri:
-
-1. Pada halaman Login, klik tautan Lupa Password? yang berada di bawah kolom input.
-2. Masukkan alamat email yang terhubung dengan akun Anda.
-3. Sistem akan mengirimkan Tautan Reset Password secara otomatis melalui Email dan WhatsApp yang terdaftar.
-4. Klik tautan tersebut dan buat password baru Anda.
-
 <br />
