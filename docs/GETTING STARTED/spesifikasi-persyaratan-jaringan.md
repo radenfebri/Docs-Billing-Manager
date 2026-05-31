@@ -5,6 +5,11 @@ hidden: false
 icon: fad fa-cloud-exclamation
 metadata:
   robots: index
+next:
+  pages:
+    - slug: panduan-login-mengatasi-lupa-password
+      title: Panduan Login & Mengatasi Lupa Password
+      type: basic
 ---
 Agar Billing Manager dapat berkomunikasi dengan jaringan Anda secara sempurna, terdapat beberapa spesifikasi standar yang harus dipenuhi oleh infrastruktur jaringan Anda.
 
