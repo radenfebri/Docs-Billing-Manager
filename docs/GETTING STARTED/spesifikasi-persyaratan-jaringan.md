@@ -1,5 +1,5 @@
 ---
-title: 'Spesifikasi & Persyaratan Jaringan '
+title: Spesifikasi & Persyaratan
 deprecated: false
 hidden: false
 icon: fad fa-cloud-exclamation
