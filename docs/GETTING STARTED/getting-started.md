@@ -1,7 +1,12 @@
 ---
-title: Welcome to Docs Billing Manager
+title: About Billing Manager
 hidden: false
 icon: fad fa-house-chimney
+next:
+  pages:
+    - slug: hubungkan-billing-dengan-router
+      title: Setup Mikrotik
+      type: basic
 ---
 <Callout icon="📘" theme="info">
   **Template:**  Delete this callout and edit this page with your content and links.
