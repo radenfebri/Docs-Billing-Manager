@@ -10,7 +10,9 @@ Keamanan data Anda adalah prioritas kami. Halaman Secure Access (Backend) diranc
 
 <br />
 
-![](https://files.readme.io/7e72d79f6a151ab7b7e556ff2f54f5b612e244062b163d6eaade42b205acb073-image.png)
+
+<Image src="https://files.readme.io/7e72d79f6a151ab7b7e556ff2f54f5b612e244062b163d6eaade42b205acb073-image.png" framed={true} />
+
 
 Langkah-langkah Login:
 
@@ -22,7 +24,9 @@ Langkah-langkah Login:
 
 <br />
 
-![](https://files.readme.io/c87a5b6f7e4d94c56f83c45c75f7ec9bc3cb928fa40568c5881ef745f630affe-image.png)
+
+<Image src="https://files.readme.io/c87a5b6f7e4d94c56f83c45c75f7ec9bc3cb928fa40568c5881ef745f630affe-image.png" framed={true} />
+
 
 <br />
 
@@ -34,7 +38,9 @@ Langkah-langkah Login:
 
 <br />
 
-![](https://files.readme.io/8d3a5723a3a8cfaad4d196a239129c8adccc6765dec587a72461d3fa7ebc949a-image.png)
+
+<Image src="https://files.readme.io/8d3a5723a3a8cfaad4d196a239129c8adccc6765dec587a72461d3fa7ebc949a-image.png" framed={true} />
+
 
 **Mengatasi Lupa Password**: Jika Anda atau staf Anda lupa kata sandi, tidak perlu panik. Anda bisa meresetnya secara mandiri:
 
