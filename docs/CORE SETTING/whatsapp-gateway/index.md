@@ -6,10 +6,28 @@ icon: fab fa-whatsapp
 metadata:
   robots: index
 ---
-<Grid columns="3" gap="20px" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))' }}> <Card title="Quick Start" href="/main/docs/quickstart" icon="fa-duotone fa-solid fa-forward">Learn how to write and publish docs</Card>
+```mdx
+<Grid columns="3" gap="20px" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))' }}>
 
-<Card title="API Reference" href="/main/docs/api-reference" icon="fa-duotone fa-solid fa-code-simple">Use an OAS file, or create one with ReadMe</Card>
+<Card title="Wapisender" href="/main/docs/whatsapp-gateway-wapisender" icon="fa-duotone fa-solid fa-paper-plane">
+Hubungkan aplikasi billing dengan Wapisender menggunakan API Key dan Device Key.
 
-<Card title="Build with AI" href="/main/docs/ai-overview" icon="fa-duotone fa-solid fa-sparkles">Write, review, and improve docs with AI tools</Card> </Grid>
+Website: https://wapisender.id
+</Card>
+
+<Card title="Wablas" href="/main/docs/whatsapp-gateway-wablas" icon="fa-duotone fa-solid fa-code-simple">
+Gunakan Base URL server Wablas, Secret Key, dan Token untuk mengirim notifikasi WhatsApp.
+
+Website: https://wablas.com
+</Card>
+
+<Card title="Fonnte" href="/main/docs/whatsapp-gateway-fonnte" icon="fa-duotone fa-solid fa-sparkles">
+Kirim pesan WhatsApp menggunakan endpoint Fonnte dan satu atau beberapa token.
+
+Website: https://fonnte.com
+</Card>
+
+</Grid>
+```
 
 <br />
