@@ -1,14 +1,5 @@
 ---
 title: About Billing Manager
-excerpt: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since 1966, when
-  designers at Letraset and James Mosley, the librarian at St Bride Printing
-  Library, took a 1914 Cicero translation and scrambled it to make dummy text
-  for Letraset's Body Type sheets. It has survived not only many decades, but
-  also the leap into electronic typesetting, remaining essentially unchanged. It
-  was popularised thanks to these sheets and more recently with desktop
-  publishing software including versions of Lorem Ipsum.
 hidden: false
 icon: fad fa-house-chimney
 next:
@@ -17,4 +8,6 @@ next:
       title: Setup Mikrotik
       type: basic
 ---
-<br />
+Selamat datang di Billing Manager, solusi All-in-One yang dirancang khusus untuk mempermudah operasional bisnis RT/RW Net dan Internet Service Provider (ISP). Sistem ini diciptakan untuk mengotomatisasi pekerjaan rutin Anda, mulai dari manajemen jaringan hingga penagihan, sehingga Anda bisa fokus pada pengembangan bisnis. Dengan Billing Manager, Anda tidak perlu lagi melakukan pencatatan manual atau mengecek router satu per satu. Semuanya dikendalikan dari satu pintu.
+
+**Fitur Unggulan Utama:**<br />✅ Automasi Mikrotik: Sinkronisasi langsung untuk layanan PPPoE rumahan dan pembuatan Voucher Hotspot.<br />✅ Auto-Billing & Isolir: Sistem penagihan otomatis setiap bulan dan pemblokiran otomatis (isolir) tepat pada waktunya bagi pelanggan yang menunggak.<br />✅ WhatsApp Gateway: Mengirim notifikasi tagihan, pengingat jatuh tempo, dan pesan massal (blast) langsung ke WhatsApp pelanggan.<br />✅ Client Area (Portal Pelanggan): Memberikan akses mandiri bagi pelanggan untuk mengecek tagihan, membayar secara online (Payment Gateway), hingga melaporkan gangguan (Sistem Tiket).<br />✅ Integrasi GenieACS: Memantau status perangkat Modem/ONT pelanggan dan mengontrol WiFi dari jarak jauh.
