@@ -2,7 +2,7 @@
 title: WhatsApp Gateway
 deprecated: false
 hidden: false
-icon: fad fa-building-flag
+icon: fab fa-whatsapp-square
 metadata:
   robots: index
 ---
