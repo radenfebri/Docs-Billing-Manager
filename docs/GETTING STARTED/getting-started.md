@@ -8,9 +8,9 @@ next:
       title: Setup Mikrotik
       type: basic
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
-</Callout>
+> 📘
+>
+> **Template:**  Delete this callout and edit this page with your content and links.
 
 <Cards>
   {/* Edit the props below to customize these components */}
