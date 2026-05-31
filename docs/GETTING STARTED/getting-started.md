@@ -1,5 +1,5 @@
 ---
-title: Pengenalan Sistem Billing Manager
+title: Billing Manager
 hidden: false
 icon: fad fa-house-chimney
 next:
