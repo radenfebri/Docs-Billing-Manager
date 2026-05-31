@@ -28,8 +28,6 @@ Langkah-langkah Login:
 <Image src="https://files.readme.io/c87a5b6f7e4d94c56f83c45c75f7ec9bc3cb928fa40568c5881ef745f630affe-image.png" align="center" framed={true} />
 
 
-<br />
-
 
 <Image src="https://files.readme.io/afc7a0178ee05e8f046fa40aac5e8f91fa436061878207d9c671a5826d56f94c-image.png" align="center" framed={true} />
 
