@@ -1,5 +1,5 @@
 ---
-title: Wablas (https://wablas.com)
+title: Wablas
 deprecated: false
 hidden: false
 icon: fad fa-2
