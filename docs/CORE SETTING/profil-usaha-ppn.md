@@ -10,11 +10,13 @@ Mengatur identitas usaha adalah langkah pertama yang wajib dilakukan. Identitas 
 
 <br />
 
-![]()
+![](https://files.readme.io/0de0c24ec9206285953aeae608df59eb4874089dc2533a10aed7b4e88bac4025-image.png)
 
-![](https://files.readme.io/d46f095d0e058858dc423030ce6112111969fcd86c669b90c97b18bae1dbc0ff-image.png)
+<br />
 
-![]()
+<br />
+
+![](https://files.readme.io/4c83dd294d1bb08c112a5154c6fabc03bdd09fff1d97d079f594d0a16eb18ae6-image.png)
 
 Langkah-langkah Mengatur Profil Usaha:
 
