@@ -4,9 +4,6 @@ hidden: false
 icon: fad fa-house-chimney
 next:
   pages:
-    - slug: hubungkan-billing-dengan-router
-      title: Setup Mikrotik
-      type: basic
     - slug: spesifikasi-persyaratan-jaringan
       title: Spesifikasi & Persyaratan
       type: basic
