@@ -1,5 +1,5 @@
 ---
-title: Fonnte (https://fonnte.com)
+title: Fonnte
 deprecated: false
 hidden: false
 icon: fad fa-1
