@@ -10,21 +10,14 @@ WhatsApp Gateway digunakan untuk menghubungkan aplikasi billing dengan provider 
 
 Pilih panduan sesuai provider yang Anda gunakan.
 
-<Grid columns="3" gapX="20px" gapY="20px" paddingY="1.5em" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))' }}>
+<Grid columns="3" gapX="30px" gapY="30px" paddingY="1.5em" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))' }}>
 
-<Card title="Wapisender" href="/main/docs/whatsapp-gateway-wapisender" icon="fa-duotone fa-solid fa-paper-plane">
-Konfigurasi Wapisender menggunakan Base URL, API Key, dan Device Key. Website: https://wapisender.id
-</Card>
+  <CoolTile header="Wapisender" href="/main/docs/whatsapp-gateway-wapisender" icon="fa-duotone fa-solid fa-paper-plane" text="Base URL, API Key, dan Device Key. Website: wapisender.id" />
 
-<Card title="Wablas" href="/main/docs/whatsapp-gateway-wablas" icon="fa-duotone fa-solid fa-comments">
-Konfigurasi Wablas menggunakan Base URL server, Secret Key, dan Token. Website: https://wablas.com
-</Card>
+  <CoolTile header="Wablas" href="/main/docs/whatsapp-gateway-wablas" icon="fa-duotone fa-solid fa-comments" text="Base URL server, Secret Key, dan Token. Website: wablas.com" />
 
-<Card title="Fonnte" href="/main/docs/whatsapp-gateway-fonnte" icon="fa-duotone fa-solid fa-message">
-Konfigurasi Fonnte menggunakan endpoint API dan satu atau beberapa token. Website: https://fonnte.com
-</Card>
+  <CoolTile header="Fonnte" href="/main/docs/whatsapp-gateway-fonnte" icon="fa-duotone fa-solid fa-message" text="Endpoint API dan satu atau beberapa token. Website: fonnte.com" />
 
 </Grid>
-
 
 <br />
