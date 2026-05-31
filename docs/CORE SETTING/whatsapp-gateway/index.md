@@ -6,9 +6,6 @@ icon: fab fa-whatsapp
 metadata:
   robots: index
 ---
-```markdown
-# WhatsApp Gateway
-
 WhatsApp Gateway digunakan untuk menghubungkan aplikasi billing dengan provider WhatsApp. Provider yang dipilih akan menjadi provider aktif untuk mengirim notifikasi tagihan, pengingat jatuh tempo, konfirmasi pembayaran, isolir otomatis, dan pesan pelanggan lainnya.
 
 Pilih panduan sesuai provider yang Anda gunakan.
@@ -34,6 +31,5 @@ Website: https://fonnte.com
 </Card>
 
 </Grid>
-```
 
 <br />
