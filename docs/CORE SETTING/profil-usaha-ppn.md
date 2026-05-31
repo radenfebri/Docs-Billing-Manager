@@ -8,17 +8,13 @@ metadata:
 ---
 Mengatur identitas usaha adalah langkah pertama yang wajib dilakukan. Identitas ini akan menempel pada halaman Client Area, kop tagihan (Invoice), dan cetakan Voucher Hotspot.
 
-<br />
 
-![](https://files.readme.io/0de0c24ec9206285953aeae608df59eb4874089dc2533a10aed7b4e88bac4025-image.png)
+<Image src="https://files.readme.io/0de0c24ec9206285953aeae608df59eb4874089dc2533a10aed7b4e88bac4025-image.png" align="center" framed={true} />
 
-<br />
 
-<br />
 
-![](https://files.readme.io/4c83dd294d1bb08c112a5154c6fabc03bdd09fff1d97d079f594d0a16eb18ae6-image.png)
+<Image src="https://files.readme.io/4c83dd294d1bb08c112a5154c6fabc03bdd09fff1d97d079f594d0a16eb18ae6-image.png" align="center" framed={true} />
 
-Langkah-langkah Mengatur Profil Usaha:
 
 1. Masuk ke menu **System** > **Settings**.
 2. Pada bagian Profil Perusahaan, lengkapi kolom:<br />- Nama Situs / Usaha: (Contoh: Jaya Net)<br />- Alamat Perusahaan: Alamat lengkap kantor/pusat operasional Anda.
