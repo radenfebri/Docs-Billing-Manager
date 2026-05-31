@@ -10,19 +10,13 @@ Pengaturan zona waktu sangat krusial agar jadwal siklus tagihan dan eksekusi sis
 
 <br />
 
-![](https://files.readme.io/d73a1bf98de83fc4aceb8453cfd1d011d6730d067bc6ac0bb1fbba90d8a0fb19-image.png)
 
-![](https://files.readme.io/6ed4745e3c5416c13ac32de93505809e246ca0416d859e24af624f8c9d79cafe-image.png)
+<Image src="https://files.readme.io/61adf7945377605e7d2cdc851e6dbf94664fe0c6dd241ce417041f0608f58783-image.png" align="center" framed={true} />
 
-<br />
 
-<br />
 
-<br />
+<Image src="https://files.readme.io/f27d6b03550201decc3f635850ab7e52bab2cdda0e6207d10f9b7cec9d7d80e5-image.png" align="center" framed={true} />
 
-<br />
-
-<br />
 
 Cara Mengatur Waktu Sistem:
 
