@@ -1,5 +1,5 @@
 ---
-title: Panduan Login & Mengatasi Lupa Password
+title: Login & Lupa Password
 deprecated: false
 hidden: false
 icon: fad fa-book-open-reader
