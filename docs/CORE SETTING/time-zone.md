@@ -2,7 +2,7 @@
 title: Time Zone
 deprecated: false
 hidden: false
-icon: fad fa-building-flag
+icon: fad fa-clock
 metadata:
   robots: index
 ---
