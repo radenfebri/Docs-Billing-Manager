@@ -4,6 +4,7 @@ deprecated: false
 hidden: false
 icon: fad fa-cloud-exclamation
 metadata:
+  title: Spesifikasi & Persyaratan
   robots: index
 next:
   pages:
