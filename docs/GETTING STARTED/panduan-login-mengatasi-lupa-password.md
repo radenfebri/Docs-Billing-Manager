@@ -4,6 +4,7 @@ deprecated: false
 hidden: false
 icon: fad fa-book-open-reader
 metadata:
+  title: Login & Lupa Password
   robots: index
 ---
 Keamanan data Anda adalah prioritas kami. Halaman Secure Access (Backend) dirancang untuk memastikan hanya staf yang berwenang yang dapat masuk ke dalam sistem.
