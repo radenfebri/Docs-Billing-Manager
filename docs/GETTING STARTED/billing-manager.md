@@ -2,6 +2,16 @@
 title: Billing Manager
 hidden: false
 icon: fad fa-house-chimney
+metadata:
+  title: Billing Manager
+  keywords:
+    - bilman
+    - billman
+    - billing
+    - manager
+    - mikroitk
+    - api
+    - billing mikroitk
 next:
   pages:
     - slug: spesifikasi-persyaratan-jaringan
