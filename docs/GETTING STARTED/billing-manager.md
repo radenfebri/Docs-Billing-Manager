@@ -14,7 +14,7 @@ metadata:
     - billing mikroitk
 next:
   pages:
-    - slug: spesifikasi-persyaratan-jaringan
+    - slug: spesifikasi-persyaratan
       title: Spesifikasi & Persyaratan
       type: basic
 ---
