@@ -6,6 +6,11 @@ icon: fad fa-book-open-reader
 metadata:
   title: Login & Lupa Password
   robots: index
+next:
+  pages:
+    - slug: profil-usaha-ppn
+      title: Profil Usaha & PPN
+      type: basic
 ---
 Keamanan data Anda adalah prioritas kami. Halaman Secure Access (Backend) dirancang untuk memastikan hanya staf yang berwenang yang dapat masuk ke dalam sistem.
 
